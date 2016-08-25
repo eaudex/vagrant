@@ -1,0 +1,14 @@
+##########################################################################
+#    apt-get install -y build-essential pkg-config
+#    apt-get install -y gfortran swig
+#    apt-get install -y libatlas-dev liblapack-dev
+#    apt-get install -y libpng12-dev libfreetype6-dev
+#    #libfreetype6
+#    apt-get install -y python python-dev python-setuptools
+#    #apt-get install -y ipython python-numpy python-scipy python-pandas python-matplotlib
+#    #
+#    easy_install pip
+#    pip install -U distribute
+#    pip install -U virtualenv
+#    pip install -U nose nose2
+#    pip install -U ipython numpy scipy pandas matplotlib
