@@ -70,5 +70,5 @@ Vagrant.configure(2) do |config|
     echo 'FIRE!!!'
   SHELL
   config.vm.provision "shell", path: "install.sh"
-  config.vm.provision "shell", path: "install_tensorflow.sh"
+  config.vm.provision "shell", path: "install_python_libs.sh"
 end
